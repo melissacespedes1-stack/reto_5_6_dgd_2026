@@ -22,6 +22,8 @@ LegacyRetail S.A. operó durante años con un archivo plano. La migración direc
 - `Ventas.ClienteID -> Clientes.ClienteID`
 - `Ventas.ProductoID -> Productos.ProductoID`
 - `Ventas.SucursalID -> Sucursales.SucursalID`
+
+
 Figura 1. Diagrama Entidad-Relación (DER)
 ![alt text](image.png)
 ---
