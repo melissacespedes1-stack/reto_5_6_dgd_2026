@@ -1,5 +1,5 @@
 # Reporte Tecnico – Reto SQL Architect & Tuner Protocol
-
+## *presentado por: Ingrid Melissa Céspedes Díaz**
 ## 1. Contexto y objetivos
 LegacyRetail S.A. operó durante años con un archivo plano. La migración directa a una tabla única generó:
 - Inconsistencias (duplicidad en clientes/productos)
